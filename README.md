@@ -4,7 +4,7 @@ I'm Matt Stiles, a senior data and graphics editor at CNN in Los Angeles. I repo
 visual stories, write Python and JavaScript and build systems that keep newsroom
 data current. 
 
-My work combines reporting, software development, geospatial analysis, data
+My work combines reporting, editing, software development, geospatial analysis, data
 visualization and technical leadership.
 
 [Portfolio](https://mattstiles.me/) ·
