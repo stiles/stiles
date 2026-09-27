@@ -56,9 +56,8 @@ and The Texas Tribune. I was the founding news applications editor at the
 Tribune and served as NPR's data editor. I also teach occasionally at the University of
 Southern California.
 
-I contributed to the *Los Angeles Times* coverage of the fatal shooting on the
-*Rust* film set, which was a staff finalist for the 2022 Pulitzer Prize in
-Breaking News Reporting.
+I [contributed](https://www.latimes.com/entertainment-arts/business/story/2021-11-04/film-set-fatalities-jump-in-last-decade-as-a-production-booms) to the *Los Angeles Times*' coverage of the fatal shooting on the
+*Rust* film set, which was a staff finalist for the 2022 Pulitzer Prize in Breaking News Reporting.
 
 ## Tools
 
