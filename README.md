@@ -51,12 +51,13 @@ visualization and technical leadership.
   neighborhoods, districts and service boundaries for a Los Angeles address.
 - [The Daily Viz](https://thedailyviz.com/) is my retired digital sketchpad for
   charts, maps and other data stories.
+- [Feels Like LA](https://www.feelslike.la/), a mobile-first weather product that answers one question: what will it feel like where I am in Los Angeles? 
 
 ## Background
 
 Before CNN, I worked at the *Los Angeles Times*, *The Wall Street Journal*, NPR
 and The Texas Tribune. I was the founding news applications editor at the
-Tribune and served as NPR's data editor. I also teach at the University of
+Tribune and served as NPR's data editor. I also teach occasionally at the University of
 Southern California.
 
 I contributed to the *Los Angeles Times* coverage of the fatal shooting on the
