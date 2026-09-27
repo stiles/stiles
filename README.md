@@ -26,18 +26,14 @@ visualization and technical leadership.
 
 ## Selected software
 
-- [ezesri](https://github.com/stiles/ezesri) extracts data and metadata from Esri
-  REST endpoints and writes GeoJSON, Shapefile, GeoPackage or GeoParquet.
-- [pyfr24](https://github.com/stiles/pyfr24) fetches, analyzes and plots flight
-  data from the Flightradar24 API.
-- [mound](https://github.com/stiles/mound) retrieves and analyzes MLB
-  pitch-level data from Python or the command line.
-- [streetview-dl](https://github.com/stiles/streetview-dl) downloads
-  full-resolution Google Street View panoramas, including historical captures.
-- [chorokit](https://github.com/stiles/chorokit) makes choropleth maps with
-  Python, Matplotlib and GeoPandas.
-- [notebooks](https://github.com/stiles/notebooks) contains worked Jupyter
-  notebooks for data analysis, charts and maps.
+- [ezesri](https://github.com/stiles/ezesri) extracts data and metadata from Esri REST endpoints and writes GeoJSON, Shapefile, GeoPackage or GeoParquet.
+- [pyfr24](https://github.com/stiles/pyfr24) fetches, analyzes and plots flight data from the Flightradar24 API.
+- [Hangar Bay](https://github.com/stiles/hangarbay), a reproducible workflow for updating, cleaning and querying the FAA aircraft registry.
+- [flight-tracer](https://github.com/stiles/flight-tracer): fetch, process, store and plot flight data from ADS-B Exchange. 
+- [mound](https://github.com/stiles/mound) retrieves and analyzes MLB pitch-level data from Python or the command line.
+- [streetview-dl](https://github.com/stiles/streetview-dl) downloads full-resolution Google Street View panoramas, including historical captures.
+- [chorokit](https://github.com/stiles/chorokit) makes choropleth maps with Python, Matplotlib and GeoPandas.
+- [notebooks](https://github.com/stiles/notebooks) contains worked Jupyter notebooks for data analysis, charts and maps.
 
 ## Data projects
 
