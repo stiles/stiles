@@ -28,16 +28,16 @@ visualization and technical leadership.
 
 - [ezesri](https://github.com/stiles/ezesri) extracts data and metadata from Esri REST endpoints and writes GeoJSON, Shapefile, GeoPackage or GeoParquet.
 - [pyfr24](https://github.com/stiles/pyfr24) fetches, analyzes and plots flight data from the Flightradar24 API.
-- [Hangar Bay](https://github.com/stiles/hangarbay), a reproducible workflow for updating, cleaning and querying the FAA aircraft registry.
-- [flight-tracer](https://github.com/stiles/flight-tracer): fetch, process, store and plot flight data from ADS-B Exchange. 
-- [mound](https://github.com/stiles/mound) retrieves and analyzes MLB pitch-level data from Python or the command line.
+- [Hangar Bay](https://github.com/stiles/hangarbay) updates, cleans and queries FAA's cumbersome national aircraft registry.
+- [Flight Tracer](https://github.com/stiles/flight-tracer) fetches, processes, stores and plots flight data from ADS-B Exchange. 
+- [Mound](https://github.com/stiles/mound) retrieves and analyzes MLB pitch-level data from Python or the command line.
 - [streetview-dl](https://github.com/stiles/streetview-dl) downloads full-resolution Google Street View panoramas, including historical captures.
 - [chorokit](https://github.com/stiles/chorokit) makes choropleth maps with Python, Matplotlib and GeoPandas.
-- [notebooks](https://github.com/stiles/notebooks) contains worked Jupyter notebooks for data analysis, charts and maps.
+- [locations](https://github.com/stiles/locations) gathera location details on prominent stores, restaurants and other consumer destinations across the United States.
 
 ## Data projects
 
-- [Their names fit](https://www.theirnames.fit/) is a reported register of
+- [Their Names Fit](https://www.theirnames.fit/) is a reported register of
   aptronyms: people whose names are unusually suited to their work.
 - [Onion History](https://www.onionhistory.com/) is an automated archive of more
   than 35,000 headlines from *The Onion*.
@@ -47,7 +47,7 @@ visualization and technical leadership.
   neighborhoods, districts and service boundaries for a Los Angeles address.
 - [The Daily Viz](https://thedailyviz.com/) is my retired digital sketchpad for
   charts, maps and other data stories.
-- [Feels Like LA](https://www.feelslike.la/), a mobile-first weather product that answers one question: what will it feel like where I am in Los Angeles? 
+- [FeelsLike.LA](https://www.feelslike.la/), a mobile-first weather product that answers one question: what will it feel like where I am in Los Angeles? 
 
 ## Background
 
