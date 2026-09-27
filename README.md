@@ -32,7 +32,7 @@ visualization and technical leadership.
 - [Flight Tracer](https://github.com/stiles/flight-tracer) fetches, processes, stores and plots flight data from ADS-B Exchange. 
 - [Mound](https://github.com/stiles/mound) retrieves and analyzes MLB pitch-level data from Python or the command line.
 - [streetview-dl](https://github.com/stiles/streetview-dl) downloads full-resolution Google Street View panoramas, including historical captures.
-- [chorokit](https://github.com/stiles/chorokit) makes choropleth maps with Python, Matplotlib and GeoPandas.
+- [chorokit](https://github.com/stiles/chorokit) makes beautiful choropleth maps with Python, Matplotlib and GeoPandas.
 - [locations](https://github.com/stiles/locations) gathera location details on prominent stores, restaurants and other consumer destinations across the United States.
 
 ## Data projects
