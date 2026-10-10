@@ -10,7 +10,8 @@ visualization and technical leadership.
 [Portfolio](https://mattstiles.me/) ·
 [Résumé](https://mattstiles.me/resume/) ·
 [CNN work](https://www.cnn.com/profiles/matt-stiles) ·
-[LinkedIn](https://www.linkedin.com/in/matthustiles/)
+[LinkedIn](https://www.linkedin.com/in/matthustiles/) ·
+[Medium](https://medium.com/@stiles)
 
 ## At CNN
 
