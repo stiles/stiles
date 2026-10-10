@@ -28,8 +28,8 @@ visualization and technical leadership.
 
 - [ezesri](https://github.com/stiles/ezesri) extracts data and metadata from Esri REST endpoints and writes GeoJSON, Shapefile, GeoPackage or GeoParquet.
 - [pyfr24](https://github.com/stiles/pyfr24) fetches, analyzes and plots flight data from the Flightradar24 API.
-- [Hangar Bay](https://github.com/stiles/hangarbay) updates, cleans and queries FAA's cumbersome national aircraft registry.
-- [Flight Tracer](https://github.com/stiles/flight-tracer) fetches, processes, stores and plots flight data from ADS-B Exchange. 
+- [hangarbay](https://github.com/stiles/hangarbay) updates, cleans and queries FAA's cumbersome national aircraft registry.
+- [flight-tracer](https://github.com/stiles/flight-tracer) fetches, processes, stores and plots flight data from ADS-B Exchange. 
 - [Mound](https://github.com/stiles/mound) retrieves and analyzes MLB pitch-level data from Python or the command line.
 - [streetview-dl](https://github.com/stiles/streetview-dl) downloads full-resolution Google Street View panoramas, including historical captures.
 - [chorokit](https://github.com/stiles/chorokit) makes beautiful choropleth maps with Python, Matplotlib and GeoPandas.
@@ -47,7 +47,8 @@ visualization and technical leadership.
   neighborhoods, districts and service boundaries for a Los Angeles address.
 - [The Daily Viz](https://thedailyviz.com/) is my retired digital sketchpad for
   charts, maps and other data stories.
-- [FeelsLike.LA](https://www.feelslike.la/), a mobile-first weather product that answers one question: what will it feel like where I am in Los Angeles? 
+- [FeelsLike.LA](https://www.feelslike.la/), a mobile-first weather product that answers one question: what will it feel like where I am in Los Angeles?
+- [LAStreetCameras.com](https://laspeedcameras.com/), a web app for finding (and avoiding) the 254 planned speed cameras in LA. Search your neighborhood, your street or your commute. Watch your rear end out there!
 
 ## Background
 
