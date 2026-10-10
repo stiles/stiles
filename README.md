@@ -31,7 +31,7 @@ visualization and technical leadership.
 - [pyfr24](https://github.com/stiles/pyfr24) fetches, analyzes and plots flight data from the Flightradar24 API.
 - [hangarbay](https://github.com/stiles/hangarbay) updates, cleans and queries FAA's cumbersome national aircraft registry.
 - [flight-tracer](https://github.com/stiles/flight-tracer) fetches, processes, stores and plots flight data from ADS-B Exchange. 
-- [Mound](https://github.com/stiles/mound) retrieves and analyzes MLB pitch-level data from Python or the command line.
+- [mound](https://github.com/stiles/mound) retrieves and analyzes MLB pitch-level data from Python or the command line.
 - [streetview-dl](https://github.com/stiles/streetview-dl) downloads full-resolution Google Street View panoramas, including historical captures.
 - [chorokit](https://github.com/stiles/chorokit) makes beautiful choropleth maps with Python, Matplotlib and GeoPandas.
 - [locations](https://github.com/stiles/locations) gathers location details on prominent stores, restaurants and other places across the US.
