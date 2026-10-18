@@ -28,6 +28,7 @@ visualization and technical leadership.
 ## Selected software
 
 - [ezesri](https://github.com/stiles/ezesri) extracts data and metadata from Esri REST endpoints and writes GeoJSON, Shapefile, GeoPackage or GeoParquet.
+- [airspace](https://github.com/stiles/airspace), a live local tracker for aircraft flying near a home point, with a focus on helicopters and low-altitude traffic and a radar-like map interface.
 - [pyfr24](https://github.com/stiles/pyfr24) fetches, analyzes and plots flight data from the Flightradar24 API.
 - [hangarbay](https://github.com/stiles/hangarbay) updates, cleans and queries FAA's cumbersome national aircraft registry.
 - [flight-tracer](https://github.com/stiles/flight-tracer) fetches, processes, stores and plots flight data from ADS-B Exchange. 
